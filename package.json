@@ -1,0 +1,16 @@
+{
+  "name": "smart-date-format",
+  "version": "1.0.0",
+  "description": "A smart date formatting library with locale support.",
+  "main": "index.js",
+  "keywords": ["date", "format", "relative", "locale", "time"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sayak Banerjee",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gits-up/smart-date-format"
+  }
+}
