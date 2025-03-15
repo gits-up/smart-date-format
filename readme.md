@@ -6,6 +6,7 @@ A smart date formatting library with locale support.
 
 ```sh
 npm install smart-date-format
+```
 
 ## Usage
 
@@ -19,3 +20,4 @@ console.log(dateFormatter.format(new Date(), "long"));
 
 console.log(dateFormatter.relative(new Date(Date.now() - 3600000))); 
 // Example Output: "1 hours ago"
+```
